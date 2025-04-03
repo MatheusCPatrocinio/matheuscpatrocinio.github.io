@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-### Welcome to my website!
+**Welcome to my website!**
 
 I am a PhD Candidate in Economics at INSPER Institute of Eduaction and Research, in São Paulo, Brazil.
 
