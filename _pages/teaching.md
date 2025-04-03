@@ -6,5 +6,5 @@ author_profile: true
 ---
 
 ## **Teaching Assistant**
-### **INSPER**
-- Econometrics III (time series), 2025
+### **Insper**
+- Econometrics III (time series) - PhD, 2025

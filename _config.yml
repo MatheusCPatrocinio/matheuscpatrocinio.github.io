@@ -22,11 +22,11 @@ repository               : "MatheusCPatrocinio/matheuscpatrocinio.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_matheus.jpg"
+  avatar           : "profile_matheus2.jpg"
   name             : "Matheus C. Patrocinio"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Economics at Insper"
-  location         : "São Paulo - Brazil"
+  location         : "São Paulo, Brazil"
   employer         : "Insper"
   uri              : # URL
   email            : "matheusmcp@al.insper.edu.br" 
