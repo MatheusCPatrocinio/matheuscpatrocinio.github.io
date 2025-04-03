@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ## Work in progress
+<br>
 
 **Fiscal and Monetary Interactions** <br/> 
 *with [Miguel Bandeira][miguel_bandeira] and [Marco Bonomo][marco_bonomo]*
