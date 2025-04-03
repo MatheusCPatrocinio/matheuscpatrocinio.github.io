@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Matheus C. Patrocinio"
+title: "Matheus Patrocinio"
 author_profile: true
 redirect_from: 
   - /about/

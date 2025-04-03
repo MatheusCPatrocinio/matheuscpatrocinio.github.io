@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Matheus C. Patrocinio"
+title                    : "Matheus Patrocinio"
 title_separator          : "-"
-name                     : &name "Matheus C. Patrocinio"
+name                     : &name "Matheus Patrocinio"
 description              : &description "personal description"
 url                      : https://matheuscpatrocinio.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "MatheusCPatrocinio/matheuscpatrocinio.github.io"
 author:
   # Biographic information
   avatar           : "profile_matheus2.jpg"
-  name             : "Matheus C. Patrocinio"
+  name             : "Matheus Patrocinio"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Economics at Insper"
   location         : "São Paulo, Brazil"
