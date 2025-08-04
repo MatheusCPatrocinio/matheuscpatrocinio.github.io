@@ -7,7 +7,7 @@ author_profile: true
 ## Work in progress
 <br>
 
-**Fiscal and Monetary Interactions** <br/> 
+**Monetary Policy, Unanchored Inflation and Fiscal Expectations** <br/> 
 *with [Miguel Bandeira][miguel_bandeira], [Marco Bonomo][marco_bonomo] and [Carlos Viana de Carvalho][carlos_carvalho]*
 
 <br>
