@@ -26,8 +26,8 @@ author:
   name             : "Matheus Patrocinio"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Economics at Insper"
-  location         : "São Paulo, Brazil"
-  employer         : "Insper"
+  location         : #"São Paulo, Brazil"
+  employer         : #"Insper"
   uri              : # URL
   email            : "matheusmcp@al.insper.edu.br" 
 
@@ -74,6 +74,8 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+
+  cv               :  "/files/CV_Matheus_Patrocinio.pdf"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
