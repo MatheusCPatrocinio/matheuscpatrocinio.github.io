@@ -9,9 +9,9 @@ redirect_from:
 
 **Welcome to my website!**
 
-I am a PhD Candidate in Economics at INSPER Institute of Eduaction and Research, in São Paulo, Brazil.
+I am a PhD Student in Economics at Insper, in São Paulo, Brazil.
 
-My research interests are in macroeconomics, monetary, fiscal policy and labor.
+My research interests are in Macroeconomics, Expectation Formation, Fiscal and Monetary Interactions and Labor
 
 <p>&nbsp;</p> 
 Thanks for visiting my page!
