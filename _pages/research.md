@@ -7,9 +7,10 @@ author_profile: true
 ## Work in progress
 <br>
 
-**Monetary Policy with Private Institutions Leading Expectations**
-
+**Salient Forecasters Leading Expectations** [[Paper]][wp_salient] <br/> 
+I explore how forecasters learn from each other, estimating how much they shift their own inflation expectations toward a prominent institution's forecast when the media covers it.
 <br>
+
 
 **Monetary Policy, Unanchored Inflation and Fiscal Expectations** <br/> 
 *with [Miguel Bandeira][miguel_bandeira], [Marco Bonomo][marco_bonomo] and [Carlos Viana de Carvalho][carlos_carvalho]*
@@ -27,3 +28,5 @@ author_profile: true
 [miguel_bandeira]: https://sites.google.com/view/miguelbandeira/home?authuser=0
 [marco_bonomo]: https://sites.google.com/site/marcoacbonomo/
 [carlos_carvalho]: https://sites.google.com/site/cvianac2/carloscarvalho
+
+[wp_salient]: https://matheuscpatrocinio.github.io/files/SalientForecasters_MatheusPatrocinio.pdf
