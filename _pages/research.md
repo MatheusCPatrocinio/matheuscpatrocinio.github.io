@@ -4,7 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-## Work in progress
+
+## Working Papers
 <br>
 
 **Salient Forecasters Leading Expectations** [[Paper]][wp_salient] <br/> 
@@ -13,6 +14,8 @@ I explore how forecasters learn from each other, estimating how much they shift 
 </span>
 <br>
 
+## Work in Progress
+<br>
 
 **Monetary Policy, Unanchored Inflation and Fiscal Expectations** <br/> 
 *with [Miguel Bandeira][miguel_bandeira], [Marco Bonomo][marco_bonomo] and [Carlos Viana de Carvalho][carlos_carvalho]*
