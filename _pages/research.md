@@ -8,7 +8,9 @@ author_profile: true
 <br>
 
 **Salient Forecasters Leading Expectations** [[Paper]][wp_salient] <br/> 
+<span style="color: gray; font-size: 0.85em;">
 I explore how forecasters learn from each other, estimating how much they shift their own inflation expectations toward a prominent institution's forecast when the media covers it.
+</span>
 <br>
 
 
